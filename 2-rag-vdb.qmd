@@ -184,7 +184,7 @@ nace[22]
 
 ::: {.callout-note collapse="true"}
 ## Hint: structure of the `NaceDocument` class
-```{python}
+```python
 
 # Structure of NaceDocument class
 @dataclass
